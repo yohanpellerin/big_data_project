@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+brazil,146.8,0.3175460013677366,0.592399999499321,0.6389999985694885,9.53999988269061E-6,4.1,0.19237999990582466,-6.620600032806396,0.7,0.06312000043690205,111.36420059204102,0.5671999990940094,2017.7,south_america

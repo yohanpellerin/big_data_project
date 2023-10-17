@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+korea,130.6,0.44608299937099216,0.6665000021457672,0.554200004041195,2.7039999549742787E-4,5.4,0.14462999999523163,-6.530100035667419,0.8,0.0961999997496605,102.34169998168946,0.5937999978661537,2019.5,asia

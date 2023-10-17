@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+peru,234.6,0.17788000328000636,0.7752000033855438,0.7408000111579895,0.003521410050416307,6.3,0.13064999952912332,-5.493400025367737,0.7,0.09532999992370605,125.80919876098633,0.6789999932050705,2008.1,south_america

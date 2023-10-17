@@ -1,0 +1,47 @@
+Hamza part
+Track features:
+
+Metadeta:
+
+artist
+genres
+release date,*
+
+Audio features:
+
+acousticness,
+danceability,
+energy,
+instrumentalness,
+key,
+liveness,
+loudness,
+mode,
+speechness,
+tempo,
+valance,
+
+1st part Geographical analysis:
+
+Yohan part
+-----> top 10 songs in a country for a year. (for at least 20 countries)
+->distribution of the features among the countries (bar plots or pie charts, x axis the country , y axis the feature)
+->distribution of features among the continents. (same but x axis the continent)
+
+Giannis part
+->same as playlist analyzer but for each country songs. (same code, treat country songs as playlists)
+
+mean and variance of features, top 10 artists for the country,
+top 10 genres, distribution of release dates (maybe in decades),
+
+
+probably not.......
+
+2nd part
+-----> playlist analyzer.
+average and variance of features, top 10 artists from the playlist,
+top 10 genres, distribution of release dates (maybe in decades),
+
+ 
+
+

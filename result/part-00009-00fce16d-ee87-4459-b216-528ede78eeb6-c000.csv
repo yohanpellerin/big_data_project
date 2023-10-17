@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+germany,174.4,0.31853400078834965,0.6225999981164932,0.6910000056028366,7.20090020695352E-4,4.2,0.11122000068426133,-6.402799940109253,0.3,0.06755000017583371,125.72149887084962,0.49370000287890436,2015.4,europe

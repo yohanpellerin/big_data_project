@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+costarica,238.4,0.29346999786794187,0.6625000029802323,0.5853000044822693,3.0136400340552427E-4,4.8,0.1344300001859665,-5.92549991607666,0.7,0.10649000033736229,144.09709930419922,0.511099997162819,2013.9,north_america

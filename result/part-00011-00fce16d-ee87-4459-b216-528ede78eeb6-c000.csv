@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+italy,174.4,0.13616000004112722,0.5958000034093857,0.7035999953746795,5.939999823567632E-7,7.3,0.17941999956965446,-5.763699984550476,0.7,0.12561999931931495,131.01160125732423,0.4263499990105629,2019.0,europe

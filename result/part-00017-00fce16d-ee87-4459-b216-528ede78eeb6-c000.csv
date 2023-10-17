@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+australia,254.3,0.44867299594916404,0.5404000043869018,0.5534000039100647,4.394999996293336E-4,4.7,0.11370000019669532,-6.78459997177124,0.8,0.04287000019103289,108.82570037841796,0.48059999868273734,2011.3,ocenia

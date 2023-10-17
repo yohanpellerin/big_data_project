@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+morocco,158.4,0.4453459962387569,0.6623999983072281,0.6189999908208847,0.005479108837039348,5.2,0.1551800012588501,-7.787799978256226,0.5,0.15725000016391277,123.73000030517578,0.45260000228881836,2019.8,africa

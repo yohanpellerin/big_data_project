@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+southafrica,220.4,0.47474600217537954,0.527199998497963,0.516100001335144,9.53999988269061E-6,4.9,0.16617999970912933,-7.470399951934814,0.7,0.06007000021636486,103.94959945678711,0.44269999787211417,2013.0,africa

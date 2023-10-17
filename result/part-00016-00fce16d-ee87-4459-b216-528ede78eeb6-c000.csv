@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+usa,219.5,0.2624740018043667,0.6916999995708466,0.5835000038146972,8.756839842476438E-4,4.7,0.18537999801337718,-6.783299994468689,0.6,0.17969999983906745,118.64359893798829,0.46369999796152117,2017.8,north_america

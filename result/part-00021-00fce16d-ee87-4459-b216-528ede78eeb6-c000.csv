@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+chile,200.4,0.2557299997657537,0.7221000075340271,0.6925000041723252,3.1123400335673066E-4,3.8,0.13267999812960624,-5.008099973201752,0.8,0.11834999993443489,130.72339935302733,0.5273999989032745,2015.5,south_america

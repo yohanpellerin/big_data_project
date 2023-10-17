@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+egypt,207.1,0.5458000019192696,0.6744000017642975,0.5551000028848648,6.707800089316152E-5,4.6,0.12699000164866447,-9.085999917984008,0.4,0.1560900006443262,118.43549880981445,0.36289999410510065,2016.9,africa

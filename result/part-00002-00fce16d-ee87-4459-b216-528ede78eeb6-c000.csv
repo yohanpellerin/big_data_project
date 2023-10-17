@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+nigeria,86.2,0.33220000192523,0.752700001001358,0.5997999966144562,0.0307274005637737,7.0,0.1579700004309416,-7.154299974441528,0.5,0.15695999898016452,108.79910049438476,0.6778999984264373,2021.4,africa

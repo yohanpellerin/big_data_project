@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+sweden,206.4,0.33015900061000136,0.6095999985933304,0.583100003004074,1.8071000631607602E-4,5.5,0.1275200005620718,-7.173399972915649,0.8,0.0879800010472536,126.68330154418945,0.5207999974489212,2018.7,europe

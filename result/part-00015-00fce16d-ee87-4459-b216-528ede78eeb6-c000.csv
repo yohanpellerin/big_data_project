@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+mexico,239.4,0.26961999570485207,0.7342000007629395,0.6274000003933906,0.01066946405115914,5.6,0.1626699984073639,-7.728700065612793,0.6,0.09932000190019608,124.33209915161133,0.49529999345541,2007.6,north_america

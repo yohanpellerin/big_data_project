@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+canada,211.3,0.3956319992081262,0.566499999165535,0.5640000075101852,2.535399951739237E-4,4.2,0.17897000014781952,-6.247599935531616,0.8,0.06219000034034252,110.20169982910156,0.4588999979197979,2013.0,north_america

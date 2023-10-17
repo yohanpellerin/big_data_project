@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+argentina,239.3,0.24943999964743852,0.6403999984264374,0.6834000021219253,0.013883461001114483,6.1,0.21804000288248063,-7.068100035190582,0.6,0.030110000073909758,113.85609817504883,0.6797000020742416,2003.1,south_america

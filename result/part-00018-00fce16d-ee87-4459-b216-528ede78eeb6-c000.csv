@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+newzealand,258.8,0.18110000013839453,0.6074000060558319,0.595900011062622,6.348350008465786E-4,4.0,0.13152000084519386,-8.476399993896484,1.0,0.038379999622702596,123.06210098266601,0.5677999973297119,1991.7,ocenia

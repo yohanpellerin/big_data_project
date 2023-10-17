@@ -1,0 +1,2 @@
+country,avg_TimesRepeated,avg_acousticness,avg_danceability,avg_energy,avg_instrumentalness,avg_key,avg_liveness,avg_loudness,avg_mode,avg_speechness,avg_tempo,avg_valence,avg_year,continent
+japan,249.0,0.154605994571466,0.5474000036716461,0.8271999895572663,1.9499999325489626E-6,4.6,0.19328999891877174,-3.360000026226044,0.9,0.058260000124573705,121.55999908447265,0.6525000095367431,2013.6,asia
